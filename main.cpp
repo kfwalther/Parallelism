@@ -6,7 +6,7 @@
 int main(int numArguments, char * const * const arguments) {
 
 	uint64_t counter = 0;
-	uint64_t maxValue = 100000000000;
+	uint64_t maxValue = 10000000000;
 	while (++counter != maxValue) {
 		continue;
 	}
